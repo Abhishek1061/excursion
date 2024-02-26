@@ -22,7 +22,7 @@ The project is currently complete with the implementation of the following tasks
 8. Completion of the page by adding the footer and remaining CSS.
 
 ## Project Preview
-The project is deployed and can be viewed at: [Link](https://abhishek1061.github.io/excursion/)
+The project is deployed and can be viewed at: [Click Link](https://abhishek1061.github.io/excursion/)
 
 <!--
 ## Acknowledgements
